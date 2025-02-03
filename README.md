@@ -30,7 +30,7 @@ The database includes the following tables:
 
 # Features 
 ## Data Storage: Data is stored in an SQL database with properly structured tables and relationships.  
-![Screenshot of schema](/image/schema.png)  
+
 ![Image](https://github.com/user-attachments/assets/f9c31be2-aaa8-4def-9a20-807eda8c42ed)
 
 ## Simple Analysis:Basic SQL queries are used to retrieve data, such as:
